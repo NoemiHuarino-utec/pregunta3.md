@@ -1,1 +1,0 @@
-# pregunta3.md
