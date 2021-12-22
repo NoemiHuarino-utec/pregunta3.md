@@ -26,7 +26,7 @@ Después de ello, entra a nuestro proyecto y ejecutalo
 `npm start`
   
 ## Progreso
-| Cargo | Encargado |
+| CARGO | ENCARGADO |
 | ------------- | ------------- |
 | Frontend  | Magnus Carlsen  |
 | Backend | MVL  |
